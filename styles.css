@@ -47,7 +47,7 @@ body {
     border-radius: 50%; /* Make photo circular */
     border: 4px solid #4CAF50; /* Border around photo */
     object-fit: cover; /* Ensure the image covers the area */
-    margin-bottom: 15px; /* Space between photo and text */
+    margin-bottom: 0px; /* Space between photo and text */
 }
 
 .student p {
